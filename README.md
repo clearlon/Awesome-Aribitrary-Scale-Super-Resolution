@@ -46,6 +46,9 @@ A collection of aribitrary-scale or continuous super-resolution related papers a
 
 ### 2021
 
+*  **_Enhancing Multi-Scale Implicit Learning in Image Super-Resolution with Integrated Positional Encoding_** <br>
+`arxiv` | [`Paper`](https://arxiv.org/pdf/2112.05756.pdf) | Code<br>
+
 *  **_Learning Continuous Image Representation with Local Implicit Image Function_** <br>
 `CVPR 2021 Oral` | [`Paper`](https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_Learning_Continuous_Image_Representation_With_Local_Implicit_Image_Function_CVPR_2021_paper.pdf) | [`Code`](https://github.com/yinboc/liif)<br>
 
