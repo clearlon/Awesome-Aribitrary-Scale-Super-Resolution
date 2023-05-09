@@ -32,6 +32,9 @@ A collection of aribitrary-scale or continuous super-resolution related papers a
 
 ### 2022
 
+* **_Local texture estimator for implicit representation function_** <br>
+`CVPR 2022` | [`Paper`](https://openaccess.thecvf.com/content/CVPR2022/papers/Lee_Local_Texture_Estimator_for_Implicit_Representation_Function_CVPR_2022_paper.pdf) | [`Code`](https://github.com/jaewon-lee-b/lte)<br>
+
 *  **_Adaptive Local Implicit Image Function for Arbitrary-scale Super-resolution_** <br>
 `ICIP 2022` | [`Paper`](https://arxiv.org/pdf/2208.04318.pdf) | [`Code`](https://github.com/LeeHW-THU/A-LIIF)<br>
 
