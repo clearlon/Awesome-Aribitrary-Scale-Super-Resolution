@@ -20,8 +20,7 @@ A collection of aribitrary-scale or continuous super-resolution related papers, 
 *  **_CiaoSR: Continuous Implicit Attention-in-Attention Network for Arbitrary-Scale Image Super-Resolution_** <br>
 `CVPR 2023` | [`Paper`](https://arxiv.org/pdf/2212.04362.pdf) | [`Code`](https://github.com/caojiezhang/CiaoSR)<br>
 
-*  **_Learning Dynamic Scale Awareness and Global Implicit Functions for Continuous-Scale Super-Resolution of Remote Sensing Images
-_** <br>
+*  **_Learning Dynamic Scale Awareness and Global Implicit Functions for Continuous-Scale Super-Resolution of Remote Sensing Images_** <br>
 `IEEE TRES` | [`Paper`](https://ieeexplore.ieee.org/document/10026827) | [`Code`](https://github.com/hanlinwu/SADN)<br>
 
 * **_Effective Invertible Arbitrary Image Rescaling_** <br>
