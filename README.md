@@ -34,13 +34,13 @@ A collection of aribitrary-scale or continuous super-resolution related papers, 
 *  **_Scale-arbitrary Invertible Image Downscaling_** <br>
 `arxiv` | [`Paper`](https://arxiv.org/pdf/2201.12576.pdf) | Code<br>
 
-*  **_Towards Bidirectional Arbitrary Image Rescaling: Joint Optimization and Cycle Idempotence	_** <br>
+*  **_Towards Bidirectional Arbitrary Image Rescaling: Joint Optimization and Cycle Idempotence_** <br>
 `CVPR 2022` | [`Paper`](https://arxiv.org/pdf/2203.00911.pdf) | [`Code`](https://github.com/LeeHW-THU/A-LIIF)<br>
 
 ### 2021
 
 *  **_Learning Continuous Image Representation with Local Implicit Image Function_** <br>
-`CVPR 2021` | [`Paper`](https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_Learning_Continuous_Image_Representation_With_Local_Implicit_Image_Function_CVPR_2021_paper.pdf) | [`Code`](https://github.com/yinboc/liif)<br>
+`CVPR 2021 Oral` | [`Paper`](https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_Learning_Continuous_Image_Representation_With_Local_Implicit_Image_Function_CVPR_2021_paper.pdf) | [`Code`](https://github.com/yinboc/liif)<br>
 
 *  **_Learning A Single Network for Scale-Arbitrary Super-Resolution_** <br>
 `ICCV 2021` | [`Paper`](https://arxiv.org/abs/2004.03791) | [`Code`](https://github.com/The-Learning-And-Vision-Atelier-LAVA/ArbSR)<br>
