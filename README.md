@@ -21,7 +21,7 @@ A collection of aribitrary-scale or continuous super-resolution related papers a
 `CVPR 2023` | [`Paper`](https://arxiv.org/pdf/2212.04362.pdf) | [`Code`](https://github.com/caojiezhang/CiaoSR)<br>
 
 *  **_Deep Arbitrary-Scale Image Super-Resolution via Scale-Equivariance Pursuit_** <br>
-`CVPR 2023` | Paper | [`Code`](https://github.com/neuralchen/EQSR)<br>
+`CVPR 2023` | [`Paper`](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Deep_Arbitrary-Scale_Image_Super-Resolution_via_Scale-Equivariance_Pursuit_CVPR_2023_paper.pdf) | [`Code`](https://github.com/neuralchen/EQSR)<br>
 
 
 *  **_Learning Dynamic Scale Awareness and Global Implicit Functions for Continuous-Scale Super-Resolution of Remote Sensing Images_** <br>
