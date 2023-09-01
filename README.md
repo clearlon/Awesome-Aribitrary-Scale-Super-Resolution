@@ -2,6 +2,12 @@
 A collection of aribitrary-scale or continuous super-resolution related papers and repositories.
 
 ### 2023
+*  **_Dynamic Implicit Image Function for Efficient Arbitrary-Scale Image Representation_** <br>
+` ` | [`Paper`]() | [`Code`](https://github.com/HeZongyao/DIIF)<br>
+
+*  **_Soft-IntroVAE for Continuous Latent space Image Super-Resolution_** <br>
+` ` | [`Paper`]() | [`Code`]()<br>
+
 *  **_Implicit Diffusion Models for Continuous Super-Resolution_** <br>
 `CVPR 2023` | [`Paper`](https://arxiv.org/abs/2303.16491) | [`Code`](https://github.com/Ree1s/IDM)<br>
 
