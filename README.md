@@ -3,10 +3,10 @@ A collection of aribitrary-scale or continuous super-resolution related papers a
 
 ### 2023
 *  **_Dynamic Implicit Image Function for Efficient Arbitrary-Scale Image Representation_** <br>
-` ` | Paper | [`Code`](https://github.com/HeZongyao/DIIF)<br>
+`arxiv` | [`Paper`](https://arxiv.org/pdf/2306.12321.pdf) | [`Code`](https://github.com/HeZongyao/DIIF)<br>
 
 *  **_Soft-IntroVAE for Continuous Latent space Image Super-Resolution_** <br>
-` ` | Paper | Code <br>
+`arxiv` | Paper | Code <br>
 
 *  **_Implicit Diffusion Models for Continuous Super-Resolution_** <br>
 `CVPR 2023` | [`Paper`](https://arxiv.org/abs/2303.16491) | [`Code`](https://github.com/Ree1s/IDM)<br>
@@ -49,6 +49,10 @@ A collection of aribitrary-scale or continuous super-resolution related papers a
 
 *  **_Towards Bidirectional Arbitrary Image Rescaling: Joint Optimization and Cycle Idempotence_** <br>
 `CVPR 2022` | [`Paper`](https://arxiv.org/pdf/2203.00911.pdf) | [`Code`](https://github.com/LeeHW-THU/A-LIIF)<br>
+
+*  **_A Simple Plugin for Transforming Images to Arbitrary Scales_** <br>
+`BMVC 2022` | [`Paper`](https://arxiv.org/pdf/2210.03417.pdf) | Code<br>
+
 
 ### 2021
 
