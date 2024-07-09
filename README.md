@@ -2,11 +2,11 @@
 A collection of aribitrary-scale or continuous super-resolution related papers and repositories.
 
 ### 2024
-* **__** <br>
-`` | [`Paper`]() [`Code`]() <br>
+* **_Latent Modulated Function for Computational Optimal Continuous Image Representation_** <br>
+`` | [`Paper`](https://arxiv.org/pdf/2404.16451) [`Code`](https://github.com/HeZongyao/LMF) <br>
 
 * **_Hierarchical Neural Operator Transformer with Learnable Frequency-aware Loss Prior for Arbitrary-scale Super-resolution_** <br>
-`arxiv` | [`Paper`](https://arxiv.org/pdf/2405.12202) [`Code`]() <br>
+`arxiv` | [`Paper`](https://arxiv.org/pdf/2405.12202) Code<br>
 
 * **_AnySR: Realizing Image Super-Resolution as Any-Scale, Any-Resource_** <br>
 `arxiv` | [`Paper`](https://arxiv.org/pdf/2407.04241) [`Code`](https://github.com/CrispyFeSo4/AnySR) <br> 
