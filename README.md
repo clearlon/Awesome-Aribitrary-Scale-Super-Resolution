@@ -17,6 +17,10 @@ A collection of aribitrary-scale or continuous super-resolution related papers a
 *  **_Learning Dual-Level Deformable Implicit Representation for Real-World Scale Arbitrary Super-Resolution_** <br>
 `arxiv` | [`Paper`](https://arxiv.org/pdf/2403.10925) | Code<br>
 
+* **_Arbitrary-Scale Image Generation and Upsampling using Latent Diffusion
+Model and Implicit Neural Decoder_** <br>
+`CVPR 2024` | [`Paper`](https://arxiv.org/pdf/2403.10255) Code<br>
+
 ### 2023
 *  **_Dynamic Implicit Image Function for Efficient Arbitrary-Scale Image Representation_** <br>
 `arxiv` | [`Paper`](https://arxiv.org/pdf/2306.12321.pdf) | [`Code`](https://github.com/HeZongyao/DIIF)<br>
