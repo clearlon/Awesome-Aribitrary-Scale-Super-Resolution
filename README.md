@@ -21,6 +21,13 @@ A collection of aribitrary-scale or continuous super-resolution related papers a
 Model and Implicit Neural Decoder_** <br>
 `CVPR 2024` | [`Paper`](https://arxiv.org/pdf/2403.10255) Code<br>
 
+* **_Multi-Scale Implicit Transformer with Re-parameterize for Arbitrary-Scale Super-Resolution_** <br>
+`arxiv` | [`Paper`](https://arxiv.org/pdf/2403.06536) Code<br>
+
+* **_Neural Fields with Thermal Activations for Arbitrary-Scale Super-Resolution_** <br>
+`arxiv` | [`Paper`](https://arxiv.org/pdf/2311.17643) [`Code`](https://github.com/prs-eth/thera)<br>
+
+
 ### 2023
 *  **_Dynamic Implicit Image Function for Efficient Arbitrary-Scale Image Representation_** <br>
 `arxiv` | [`Paper`](https://arxiv.org/pdf/2306.12321.pdf) | [`Code`](https://github.com/HeZongyao/DIIF)<br>
