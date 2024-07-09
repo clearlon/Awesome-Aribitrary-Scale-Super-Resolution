@@ -3,7 +3,7 @@ A collection of aribitrary-scale or continuous super-resolution related papers a
 
 ### 2024
 *  **_Continuous Optical Zooming: A Benchmark for Arbitrary-Scale Image Super-Resolution in Real World_** <br>
-`arxiv` | [`Paper`](https://openaccess.thecvf.com/content/CVPR2024/html/Fu_Continuous_Optical_Zooming_A_Benchmark_for_Arbitrary-Scale_Image_Super-Resolution_in_CVPR_2024_paper.html) | [`Code`](https://github.com/pf0607/COZ)<br>
+`CVPR 2024` | [`Paper`](https://openaccess.thecvf.com/content/CVPR2024/html/Fu_Continuous_Optical_Zooming_A_Benchmark_for_Arbitrary-Scale_Image_Super-Resolution_in_CVPR_2024_paper.html) | [`Code`](https://github.com/pf0607/COZ)<br>
 
 *  **_Learning Dual-Level Deformable Implicit Representation for Real-World Scale Arbitrary Super-Resolution_** <br>
 `arxiv` | [`Paper`](https://arxiv.org/pdf/2403.10925) | Code<br>
