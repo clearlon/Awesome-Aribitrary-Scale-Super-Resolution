@@ -6,10 +6,10 @@ A collection of aribitrary-scale or continuous super-resolution related papers a
 `` | [`Paper`]() [`Code`]() <br>
 
 * **_Hierarchical Neural Operator Transformer with Learnable Frequency-aware Loss Prior for Arbitrary-scale Super-resolution_** <br>
-`` | [`Paper`](https://arxiv.org/pdf/2405.12202) [`Code`]() <br>
+`arxiv` | [`Paper`](https://arxiv.org/pdf/2405.12202) [`Code`]() <br>
 
 * **_AnySR: Realizing Image Super-Resolution as Any-Scale, Any-Resource_** <br>
-`` | [`Paper`](https://arxiv.org/pdf/2407.04241) [`Code`](https://github.com/CrispyFeSo4/AnySR) <br> 
+`arxiv` | [`Paper`](https://arxiv.org/pdf/2407.04241) [`Code`](https://github.com/CrispyFeSo4/AnySR) <br> 
 
 *  **_Continuous Optical Zooming: A Benchmark for Arbitrary-Scale Image Super-Resolution in Real World_** <br>
 `CVPR 2024` | [`Paper`](https://openaccess.thecvf.com/content/CVPR2024/html/Fu_Continuous_Optical_Zooming_A_Benchmark_for_Arbitrary-Scale_Image_Super-Resolution_in_CVPR_2024_paper.html) | [`Code`](https://github.com/pf0607/COZ)<br>
