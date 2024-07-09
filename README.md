@@ -1,6 +1,10 @@
 # Awesome Aribitrary-Scale Super-Resolution
 A collection of aribitrary-scale or continuous super-resolution related papers and repositories.
 
+### 2024
+*  **_Learning Dual-Level Deformable Implicit Representation for Real-World Scale Arbitrary Super-Resolution_** <br>
+`arxiv` | [`Paper`](https://arxiv.org/pdf/2403.10925) | Code<br>
+
 ### 2023
 *  **_Dynamic Implicit Image Function for Efficient Arbitrary-Scale Image Representation_** <br>
 `arxiv` | [`Paper`](https://arxiv.org/pdf/2306.12321.pdf) | [`Code`](https://github.com/HeZongyao/DIIF)<br>
